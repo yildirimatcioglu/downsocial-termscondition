@@ -1,4 +1,4 @@
-Terms and Conditions of DownSocial
+Terms and Conditions of SaveSocial
 
 Last updated: Sep 13th, 2022
 
@@ -6,7 +6,7 @@ Introduction
 
 These Terms govern
 
-the use of DownSocial, and,
+the use of SaveSocial, and,
 any other related Agreement or legal relationship with the Owner
 in a legally binding way. Capitalized words are defined in the relevant dedicated section of this document.
 
@@ -14,7 +14,7 @@ The User must read this document carefully.
 
 The Owner offers Products through the App Store. Although the entire contractual relationship relating to these Products is entered into solely by the Owner and Users, Users acknowledge and agree that Apple may enforce these Terms as a third-party beneficiary.
 
-DownSocial is provided by:
+SaveSocial is provided by:
 
 Yildirimhan Atcioglu
 
@@ -26,52 +26,52 @@ Please note that some provisions in these Terms may only apply to certain catego
 
 Terms of Use
 
-Unless otherwise specified, the terms of use detailed in this section apply generally when using DownSocial.
+Unless otherwise specified, the terms of use detailed in this section apply generally when using SaveSocial.
 
 Single or additional conditions of use or access may apply in specific scenarios and in such cases are additionally indicated within this document.
 
-By using DownSocial, Users confirm to meet the following requirements:
+By using SaveSocial, Users confirm to meet the following requirements:
 
 There are no restrictions for Users in terms of being Consumers or Business Users;
 Users aren’t located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist-supporting” country;
 Users aren’t listed on any U.S. Government list of prohibited or restricted parties;
-Content on DownSocial
+Content on SaveSocial
 
-Unless where otherwise specified or clearly recognizable, all content available on DownSocial is owned or provided by the Owner or its licensors.
+Unless where otherwise specified or clearly recognizable, all content available on SaveSocial is owned or provided by the Owner or its licensors.
 
-The Owner undertakes its utmost effort to ensure that the content provided on DownSocial infringes no applicable legal provisions or third-party rights. However, it may not always be possible to achieve such a result.
+The Owner undertakes its utmost effort to ensure that the content provided on SaveSocial infringes no applicable legal provisions or third-party rights. However, it may not always be possible to achieve such a result.
 
 In such cases, without prejudice to any legal prerogatives of Users to enforce their rights, Users are kindly asked to preferably report related complaints using the contact details provided in this document.
 
-Rights regarding content on DownSocial - All rights reserved
+Rights regarding content on SaveSocial - All rights reserved
 
 The Owner holds and reserves all intellectual property rights for any such content.
 
 Users may not therefore use such content in any way that is not necessary or implicit in the proper use of the Service.
 
-In particular, but without limitation, Users may not copy, download, share (beyond the limits set forth below), modify, translate, transform, publish, transmit, sell, sublicense, edit, transfer/assign to third parties or create derivative works from the content available on DownSocial, nor allow any third party to do so through the User or their device, even without the User's knowledge.
+In particular, but without limitation, Users may not copy, download, share (beyond the limits set forth below), modify, translate, transform, publish, transmit, sell, sublicense, edit, transfer/assign to third parties or create derivative works from the content available on SaveSocial, nor allow any third party to do so through the User or their device, even without the User's knowledge.
 
-Where explicitly stated on DownSocial, the User may download, copy and/or share some content available through DownSocial for its sole personal and non-commercial use and provided that the copyright attributions and all the other attributions requested by the Owner are correctly implemented.
+Where explicitly stated on SaveSocial, the User may download, copy and/or share some content available through SaveSocial for its sole personal and non-commercial use and provided that the copyright attributions and all the other attributions requested by the Owner are correctly implemented.
 
 Any applicable statutory limitation or exception to copyright shall stay unaffected.
 
 Access to external resources
 
-Through DownSocial Users may have access to external resources provided by third parties. Users acknowledge and accept that the Owner has no control over such resources and is therefore not responsible for their content and availability.
+Through SaveSocial Users may have access to external resources provided by third parties. Users acknowledge and accept that the Owner has no control over such resources and is therefore not responsible for their content and availability.
 
 Conditions applicable to any resources provided by third parties, including those applicable to any possible grant of rights in content, result from each such third parties’ terms and conditions or, in the absence of those, applicable statutory law.
 
-In particular, on DownSocial Users may see advertisements provided by third parties. The Owner does not control or moderate the advertisements displayed via DownSocial. If Users click on any such advertisement, they will be interacting with any third party responsible for that advertisement.
+In particular, on SaveSocial Users may see advertisements provided by third parties. The Owner does not control or moderate the advertisements displayed via SaveSocial. If Users click on any such advertisement, they will be interacting with any third party responsible for that advertisement.
 
 The Owner is not responsible for any matters resulting from such interaction with third parties, such as anything resulting from visiting third-party websites or using third-party content.
 
 Acceptable use
 
-DownSocial and the Service may only be used within the scope of what they are provided for, under these Terms and applicable law.
+SaveSocial and the Service may only be used within the scope of what they are provided for, under these Terms and applicable law.
 
-Users are solely responsible for making sure that their use of DownSocial and/or the Service violates no applicable law, regulations or third-party rights.
+Users are solely responsible for making sure that their use of SaveSocial and/or the Service violates no applicable law, regulations or third-party rights.
 
-Therefore, the Owner reserves the right to take any appropriate measure to protect its legitimate interests including by denying Users access to DownSocial or the Service, terminating contracts, reporting any misconduct performed through DownSocial or the Service to the competent authorities – such as judicial or administrative authorities - whenever Users engage or are suspected to engage in any of the following activities:
+Therefore, the Owner reserves the right to take any appropriate measure to protect its legitimate interests including by denying Users access to SaveSocial or the Service, terminating contracts, reporting any misconduct performed through SaveSocial or the Service to the competent authorities – such as judicial or administrative authorities - whenever Users engage or are suspected to engage in any of the following activities:
 
 violate laws, regulations and/or these Terms;
 infringe any third-party rights;
@@ -89,7 +89,7 @@ In order to maintain subscriptions, Users must pay the required recurring fee in
 
 Subscriptions handled via Apple ID
 
-Users may subscribe to a Product using the Apple ID associated with their Apple App Store account by using the relevant process on DownSocial. When doing so, Users acknowledge and accept that
+Users may subscribe to a Product using the Apple ID associated with their Apple App Store account by using the relevant process on SaveSocial. When doing so, Users acknowledge and accept that
 
 any payment due shall be charged to their Apple ID account;
 subscriptions are automatically renewed for the same duration unless the User cancels at least 24 hours before the current period expires;
@@ -113,7 +113,7 @@ US Users
 
 Disclaimer of Warranties
 
-DownSocial is provided strictly on an “as is” and “as available” basis. Use of the Service is at Users’ own risk. To the maximum extent permitted by applicable law, the Owner expressly disclaims all conditions, representations, and warranties — whether express, implied, statutory or otherwise, including, but not limited to, any implied warranty of merchantability, fitness for a particular purpose, or non-infringement of third-party rights. No advice or information, whether oral or written, obtained by user from owner or through the Service will create any warranty not expressly stated herein.
+SaveSocial is provided strictly on an “as is” and “as available” basis. Use of the Service is at Users’ own risk. To the maximum extent permitted by applicable law, the Owner expressly disclaims all conditions, representations, and warranties — whether express, implied, statutory or otherwise, including, but not limited to, any implied warranty of merchantability, fitness for a particular purpose, or non-infringement of third-party rights. No advice or information, whether oral or written, obtained by user from owner or through the Service will create any warranty not expressly stated herein.
 
 Without limiting the foregoing, the Owner, its subsidiaries, affiliates, licensors, officers, directors, agents, co-branders, partners, suppliers and employees do not warrant that the content is accurate, reliable or correct; that the Service will meet Users’ requirements; that the Service will be available at any particular time or location, uninterrupted or secure; that any defects or errors will be corrected; or that the Service is free of viruses or other harmful components. Any content downloaded or otherwise obtained through the use of the Service is downloaded at users own risk and users shall be solely responsible for any damage to Users’ computer system or mobile device or loss of data that results from such download or Users’ use of the Service.
 
@@ -167,17 +167,17 @@ Additionally, the Service might not be available due to reasons outside the Owne
 
 Service reselling
 
-Users may not reproduce, duplicate, copy, sell, resell or exploit any portion of DownSocial and of its Service without the Owner’s express prior written permission, granted either directly or through a legitimate reselling program.
+Users may not reproduce, duplicate, copy, sell, resell or exploit any portion of SaveSocial and of its Service without the Owner’s express prior written permission, granted either directly or through a legitimate reselling program.
 
 Privacy policy
 
-To learn more about the use of their Personal Data, Users may refer to the privacy policy of DownSocial.
+To learn more about the use of their Personal Data, Users may refer to the privacy policy of SaveSocial.
 
 Intellectual property rights
 
-Without prejudice to any more specific provision of these Terms, any intellectual property rights, such as copyrights, trademark rights, patent rights and design rights related to DownSocial are the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties relating to intellectual property.
+Without prejudice to any more specific provision of these Terms, any intellectual property rights, such as copyrights, trademark rights, patent rights and design rights related to SaveSocial are the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties relating to intellectual property.
 
-All trademarks — nominal or figurative — and all other marks, trade names, service marks, word marks, illustrations, images, or logos appearing in connection with DownSocial are, and remain, the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties related to intellectual property.
+All trademarks — nominal or figurative — and all other marks, trade names, service marks, word marks, illustrations, images, or logos appearing in connection with SaveSocial are, and remain, the exclusive property of the Owner or its licensors and are subject to the protection granted by applicable laws or international treaties related to intellectual property.
 
 Changes to these Terms
 
@@ -199,7 +199,7 @@ Users may not assign or transfer their rights or obligations under these Terms i
 
 Contacts
 
-All communications relating to the use of DownSocial must be sent using the contact information stated in this document.
+All communications relating to the use of SaveSocial must be sent using the contact information stated in this document.
 
 Severability
 
